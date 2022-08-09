@@ -15,6 +15,7 @@ package Lacos_de_Decisao;
 				System.out.println("Entre com o terceiro número inteiro: ");
 					n3 = ler.nextInt();
 					
+					
 					if (n1 > n2 && n1 > n3)
 						nmaior = n1;
 					if (n2 > n1 && n2 > n3)
